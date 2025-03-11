@@ -1,0 +1,23 @@
+
+MiTool
+
+
+Version 1.5.7
+
+Changelog
+
+Telegram Channel
+
+MiTool To-Do List:
+ Unlock Bootloader
+ Flash Fastboot ROM
+ Flash Recovery ROM
+ Bypass
+ More
+Installation:
+1 - Install Termux & Termux-api
+
+2 - From Termux command line:
+
+termux-setup-storage
+curl -sS https://raw.githubusercontent.com/offici5l/MiTool/master/install.sh | bash
